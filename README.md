@@ -1,8 +1,11 @@
-# Express-REST-API
-Conent yet to be added.
+# 🚀 Express REST API Boilerplate
 
-### What is REST API? 
-Content yet to be added.
+This repository serves as a boilerplate for building a RESTful API using Express.js. It provides a basic structure and configuration to quickly start developing a robust API with Express. 
+
+
+## 🌟 Features 
+
+- **Express.js: ** A fast and minimalist web
 
 ### Used stacks
 Content yet to be added. 
