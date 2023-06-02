@@ -16,8 +16,41 @@ This repository serves as a boilerplate for building a RESTful API using Express
 - **Testing:** Includes a basic testing setup using Mocha and Chai. 
 - **Docker:** Dockerized setup for easy deployment and containerization. 
 
-### Used stacks
-Content yet to be added. 
+
+## 📑 Prerequisites 
+
+Before you begin, ensure you have the following installed: 
+
+- Node.js (v14 or higher): [nodejs.org](https://nodejs.org/)
+- PostgreSQL (v10 or higher): [postgresql.org](https://www.postgresql.org/) (or any other supported database) 
+
+
+## 🏁 Getting Started 
+
+1. Clone the repository 
+```
+git clone https://github.com/Ruban2205/Express-REST-API.git
+```
+
+2. Navigate to the project directory: 
+```
+cd Express-REST-API
+```
+
+3. Install the dependencies: 
+```
+npm install 
+```
+
+4. Start the server: 
+```
+npm start 
+```
+
+The server should now be running at `http://localhost:3000`. 
+
+
+
 
 ## Contact
 
