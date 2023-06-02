@@ -49,8 +49,11 @@ npm start
 
 The server should now be running at `http://localhost:3000`. 
 
+## 🙌 Contributing 
 
+Contributions to this boilerplate are always welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. 
 
+Before contributing, Please review the code policy mentioned in GitHub for details on the code of conduct, development process, and more. 
 
 ## Contact
 
