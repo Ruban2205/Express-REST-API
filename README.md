@@ -57,7 +57,7 @@ Before contributing, Please review the code policy mentioned in GitHub for detai
 
 ## 📃 License 
 
-This boilerplate is open-source and available under the [MIT LICENCE](/LICENCE). Feel free to use, modify and distribute it as per the terms of license. 
+This boilerplate is open-source and available under the [MIT LICENSE](/LICENSE). Feel free to use, modify and distribute it as per the terms of license. 
 
 ## Contact 📧
 
